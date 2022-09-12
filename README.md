@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yirenkyialexander
-- 👀 I’m interested in devops and data science
-- 🌱 I’m currently learning devops and data analytics
-- 💞️ I’m looking to collaborate on data project, project management and Devops
+- 👀 I’m interested in Devops, Business Analysis and Data Science
+- 🌱 I’m currently learning devops and improving daily my data analytics skills, heling business thrive.
+- 💞️ I’m looking to collaborate on data project and profer solution that initiate business decisions
 - 📫 How to reach me yirenkyialexander@gmail.com
 
 <!---
