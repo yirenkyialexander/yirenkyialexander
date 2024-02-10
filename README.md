@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yirenkyialexander
-- 👀 Software Developer, Devops, and Business Analysist
-- 🌱 I’m continously learning, improving my cloud knowledge, developing logic and improving daily my data analytics skills, helping businesses thrive.
+- 👀 Software Developer, DevOps, and Business Analyst
+- 🌱 I’m continuously learning, improving my cloud knowledge, developing logic and improving daily my data analytics skills, helping businesses thrive.
 - 💞️ I’m looking to collaborate on projects and profer solutions that initiate business decisions
 - 📫 How to reach me yirenkyialexander@gmail.com
 
