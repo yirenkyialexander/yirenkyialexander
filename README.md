@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexander! <br/><a href="https://github.com/yirenkyialexander">DevOps Engineer</a>, <a href="https://www.linkedin.com/in/alexanderyirenkyi/">Software Developer</a>, <a href="https://www.linkedin.com/in/alexanderyirenkyi/">Business Analyst</a></h1>
+<h1>Hi, I'm Alexander! <br/><a href="https://github.com/yirenkyialexander">DevOps Engineer</a>, <a href="https://www.linkedin.com/in/alexanderyirenkyi/">Software Developer</a>
 
 - 🌱 I’m continuously learning, improving my cloud knowledge, developing logic and improving daily my data analytics skills, helping businesses thrive.
 - 💞️ I’m looking to collaborate on projects and profer solutions that initiate business decisions
